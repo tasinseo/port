@@ -1,0 +1,382 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Affordable CCTV camera installation and repair services in Bangladesh. Starting from ৳2,000. Expert installation, maintenance, and repair of CCTV systems across Bangladesh.">
+   <meta name="google-site-verification" content="9X2prmFsNAeoSxHAJwP_fgMAZ2DH_T30nkWSNAolgiM" />
+ <meta name="keywords" content="CCTV installation Bangladesh, CCTV repair Bangladesh, affordable CCTV service, CCTV camera setup, security camera installation, CCTV maintenance, security system Bangladesh, surveillance installation, camera repair Bangladesh">
+ <meta name="author" content="CCTV Repair">
+ <link rel="canonical" href="https://cctvrepair.pages.dev/">
+ <meta property="og:title" content="Affordable CCTV Repair & Installation Services | CCTV Repair">
+    <meta property="og:description" content="Affordable and reliable CCTV repair and installation services. Get expert solutions for all your CCTV needs, including repairs, maintenance, and upgrades. Contact us for quality service and security.">
+    <meta property="og:image" content="https://cctvrepair.pages.dev/Full-CCTV-Solution-in-Bangladesh.jpg"> <!-- Replace with the URL of your featured image -->
+    <meta property="og:url" content="https://cctvrepair.pages.dev/">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Affordable CCTV Repair & Installation Services | CCTV Repair">
+    <meta name="twitter:description" content="Affordable and reliable CCTV repair and installation services. Get expert solutions for all your CCTV needs, including repairs, maintenance, and upgrades. Contact us for quality service and security.">
+    <meta name="twitter:image" content="https://cctvrepair.pages.dev/Full-CCTV-Solution-in-Bangladesh.jpg"> <!-- Replace with the URL of your featured image -->
+    <meta name="twitter:site" content="@cctvshop">
+    <meta name="robots" content="index, follow">
+    <title>Affordable CCTV Installation & Repair Service in Bangladesh | Starting at ৳300</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 15px 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 30px;
+            background-color: #fff;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+            font-size: 16px;
+        }
+        .pricing-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 30px 0;
+            font-size: 16px;
+        }
+        .pricing-table th, .pricing-table td {
+            border: 1px solid #ddd;
+            padding: 15px;
+            text-align: left;
+        }
+        .pricing-table th {
+            background-color: #f8f8f8;
+            font-weight: bold;
+        }
+        .pricing-details {
+            margin: 20px 0;
+            font-size: 18px;
+            color: #444;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+      .slider {
+            position: relative;
+            max-width: 100%;
+            overflow: hidden;
+            margin: 20px 0;
+        }
+        .slides {
+            display: flex;
+            transition: transform 0.4s ease-in-out;
+            width: 100%; /* Ensures the container takes full width */
+        }
+        .slide {
+            min-width: 100%; /* Each slide will take up the full width */
+            flex-shrink: 0;
+            display: flex;
+            justify-content: center; /* Centers the image */
+            align-items: center;
+        }
+        .slide img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            width: auto;
+            max-height: 500px; /* Ensures the image height doesn't exceed 500px */
+        }
+        .controls {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            transform: translateY(-50%);
+        }
+        .control-prev, .control-next {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #fff;
+            padding: 10px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .control-prev:hover, .control-next:hover {
+            background-color: rgba(0, 0, 0, 0.6);
+        }
+
+        @media (max-width: 768px) {
+            .slide img {
+                max-height: 300px; /* Adjust the height for smaller screens */
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Affordable CCTV Installation & Repair Service in Bangladesh</h1>
+        <p>Expert services at unbeatable prices. Your safety is our priority.</p>
+    </header>
+    <div class="container">
+        <!-- Image Slider -->
+        <div class="slider">
+            <div class="slides">
+                <div class="slide">
+                   <img src="https://cctvrepair.pages.dev/Effordable-CCTV-Service-in-Bangladesh.png" alt="CCTV Installation">
+                </div>
+                <div class="slide">
+                    <img src="https://cctvrepair.pages.dev/CC-Cameras-Price-in-Bangladesh.png" alt="CCTV Repair">
+                </div>
+                <div class="slide">
+                    <img src="https://cctvrepair.pages.dev/Full-CCTV-Solution-in-Bangladesh.jpg" alt="CCTV Maintenance">
+                </div>
+            </div>
+            <div class="controls">
+                <span class="control-prev">&#10094;</span>
+                <span class="control-next">&#10095;</span>
+            </div>
+        </div>
+
+        <h2>Professional CCTV Installation Services Across Bangladesh</h2>
+        <p>Looking for reliable CCTV installation services in Bangladesh? We provide expert installation services for both residential and commercial properties. Our team ensures optimal placement for maximum security coverage, using the latest technology to protect your home or business.</p>
+        
+        <h3>CCTV Repair & Maintenance Services in Bangladesh</h3>
+        <p>Is your CCTV system malfunctioning? We offer comprehensive repair services to restore your system's functionality. Regular maintenance is essential for the longevity of your security system. Our affordable plans ensure your system remains in peak condition, offering peace of mind at all times.</p>
+
+        <h3>Our Comprehensive CCTV Services</h3>
+        <ul>
+            <li>
+                <strong>Complete CCTV Camera Installation:</strong> 
+                We specialize in the professional installation of CCTV cameras, tailored to your specific needs. Our installation service starts at just <strong>৳500 per camera</strong>, ensuring both affordability and quality.
+            </li>
+            <li>
+                <strong>System Maintenance & Upgrades:</strong> 
+                Regular maintenance is key to a reliable security system. We offer plans starting from <strong>৳300 annually</strong> to keep your system running smoothly. Need an upgrade? Our experts can enhance your existing setup to meet new security challenges.
+            </li>
+            <li>
+                <strong>CCTV Repair Services:</strong> 
+                Whether it's a simple fix or a complex issue, our repair services start from <strong>৳400 per camera</strong>. We diagnose and resolve problems efficiently, minimizing downtime for your security system.
+            </li>
+            <li>
+                <strong>Remote Monitoring Setup:</strong> 
+                Stay connected to your property with our remote monitoring setup. Starting from <strong>৳500</strong>, we configure your system for easy access via your smartphone or computer, no matter where you are.
+            </li>
+            <li>
+                <strong>Security Consultation:</strong> 
+                Not sure what you need? Our consultation services help you design the perfect security system, tailored to your unique requirements. We assess, recommend, and implement solutions that provide comprehensive protection.
+            </li>
+        </ul>
+
+        <h2>Affordable Pricing for CCTV Services in Bangladesh</h2>
+        <p class="pricing-details">Our transparent pricing structure ensures you get the best value for your investment. Here's a detailed breakdown of our service charges:</p>
+
+        <table class="pricing-table">
+            <tr>
+                <th>Service</th>
+                <th>Price Starting From (BDT)</th>
+            </tr>
+            <tr>
+                <td>Installation (per camera)</td>
+                <td>৳500 - ৳3,500</td>
+            </tr>
+            <tr>
+                <td>Maintenance (annual)</td>
+                <td>৳300 - ৳10,000</td>
+            </tr>
+            <tr>
+                <td>Repair (per camera)</td>
+                <td>৳400 - ৳2,500</td>
+            </tr>
+            <tr>
+                <td>System Upgrade</td>
+                <td>৳1000 - ৳10,000</td>
+            </tr>
+            <tr>
+                <td>Remote Monitoring Setup</td>
+                <td>৳500 - ৳6,000</td>
+            </tr>
+        </table>
+
+        <h3>Why Choose Our CCTV Services?</h3>
+        <ul>
+            <li>Experienced and Certified Technicians</li>
+            <li>Transparent and Affordable Pricing</li>
+            <li>High-Quality, Durable Equipment</li>
+            <li>Timely and Reliable Service</li>
+            <li>100% Customer Satisfaction Guarantee</li>
+        </ul>
+
+        <p>For more information or to book our services, contact us at <strong>+8801880663885</strong> or email <strong>info@cctvcamerabd.xyz</strong>. Visit our <a href="https://cctv-camerabd.blogspot.com">CCTV Store</a> for more details.</p>
+    
+<div><h2>Frequently Asked Questions (FAQs)</h2>
+
+<h3>1. What types of CCTV cameras do you install?</h3>
+<p>We install a wide range of CCTV cameras, including dome cameras, bullet cameras, PTZ cameras, and IP cameras. We offer both standard and HD quality options to suit your specific security needs.</p>
+
+<h3>2. How long does it take to install a CCTV system?</h3>
+<p>The installation time depends on the size and complexity of the system. Typically, a basic installation can be completed within a few hours, while more complex systems might take a full day.</p>
+
+<h3>3. Do you offer warranties on your installations?</h3>
+<p>Yes, we offer a standard 3-days warranty on all our CCTV installations. This covers any installation-related issues. Extended warranties can be purchased for additional coverage.</p>
+
+<h3>4. Can I monitor my CCTV system remotely?</h3>
+<p>Yes, we offer remote monitoring setup services that allow you to view live footage from your CCTV cameras on your smartphone, tablet, or computer from anywhere in the world.</p>
+
+<h3>5. What happens if my CCTV system malfunctions?</h3>
+<p>If your CCTV system malfunctions, our repair services are just a call away. We offer prompt service to diagnose and fix any issues, ensuring minimal downtime for your security system.</p>
+
+<h3>6. How often should I service my CCTV system?</h3>
+<p>We recommend servicing your CCTV system at least once a year to ensure it remains in optimal working condition. Regular maintenance helps prevent potential issues and extends the lifespan of your system.</p>
+
+<h3>7. Do you provide customized CCTV solutions?</h3>
+<p>Yes, we offer tailored CCTV solutions to meet your unique security needs. Our experts will assess your property and recommend the best camera types, placements, and configurations to maximize security.</p>
+
+<h3>8. What are the costs associated with CCTV repair?</h3>
+<p>Our CCTV repair services start at ৳500 per camera for basic repairs. More complex issues, such as parts replacement, may incur additional costs. We provide a detailed quote before any repair work begins.</p>
+
+<h3>9. Can you upgrade my existing CCTV system?</h3>
+<p>Absolutely. We offer system upgrades to improve the quality and functionality of your existing CCTV setup. Whether you need higher resolution cameras, additional features, or better storage options, we can help.</p>
+
+<h3>10. How do I book your services?</h3>
+<p>You can book our services by contacting us via phone at +8801880663885 or emailing us at info@cctvcamerabd.xyz. You can also visit our website and fill out the contact form for more information.</p>
+</div></div>
+    <footer>
+        <p>&copy; 2024 CCTV Repair. All rights reserved. | <a href="https://cctv-camerabd.blogspot.com/p/privacy-policy">Privacy Policy</a></p>
+    </footer>
+
+    <script>
+    const slides = document.querySelector('.slides');
+    const slideImages = document.querySelectorAll('.slide');
+    const prev = document.querySelector('.control-prev');
+    const next = document.querySelector('.control-next');
+    let index = 0;
+
+    function showSlide(idx) {
+        if (idx >= slideImages.length) index = 0;
+        if (idx < 0) index = slideImages.length - 1;
+        slides.style.transform = 'translateX(' + (-index * 100) + '%)';
+    }
+
+    prev.addEventListener('click', () => {
+        index--;
+        showSlide(index);
+    });
+
+    next.addEventListener('click', () => {
+        index++;
+        showSlide(index);
+    });
+
+    setInterval(() => {
+        index++;
+        showSlide(index);
+    }, 5000); // Change slide every 5 seconds
+
+
+    </script><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "CCTV Repair BD",
+  "url": "https://cctvrepair.pages.dev",
+  "description": "Affordable and reliable CCTV repair and installation services. Get expert solutions for all your CCTV needs, including repairs, maintenance, and upgrades. Contact us for quality service and security.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://cctvrepair.pages.dev/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CCTV Repair BD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cctvrepair.pages.dev/Effordable-CCTV-Service-in-Bangladesh.png"
+    }
+  },
+  "sameAs": [
+    "https://www.facebook.com/cctvstore.com.bd",
+    "tel:+8801880663885"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+8801880663885",
+    "contactType": "Customer Service",
+    "availableLanguage": ["English", "Bengali"]
+  },
+  "mainEntity": {
+    "@type": "Product",
+    "name": "CCTV Installation",
+    "image": "https://cctvrepair.pages.dev/Effordable-CCTV-Service-in-Bangladesh.png",
+    "description": "Affordable CCTV Repair & Installation Services in Bangladesh.",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://cctvrepair.pages.dev/CCTV-Installation-Service-in-Bangladesh",
+      "price": "500.00",
+      "priceCurrency": "BDT",
+      "availability": "http://schema.org/InStock",
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "100.00",
+          "currency": "BDT"
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "opens": "08:00",
+            "closes": "18:00",
+            "dayOfWeek": [
+              "http://schema.org/Monday",
+              "http://schema.org/Tuesday",
+              "http://schema.org/Wednesday",
+              "http://schema.org/Thursday",
+              "http://schema.org/Friday"
+            ]
+          }
+        }
+      },
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "returnPolicyCategory": "http://schema.org/Refund",
+        "merchantReturnDays": 30
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "120"
+    }
+  }
+}
+</script>
+</body>
+</html>
